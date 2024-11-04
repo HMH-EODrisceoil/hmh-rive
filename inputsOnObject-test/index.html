@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Rive Animation Web Component</title></head><body><style>.riveGroup {
+    margin: 10px;
+    background-color: rgb(218 216 216);
+    border-radius: 10px;
+    justify-items: center;
+  }</style><div class="riveGroup"><div class="button-row"><button onclick="setInput('animStateTest', 'animationState', 0)">Anim State 0</button> <button onclick="setInput('animStateTest', 'animationState', 1)">Anim State 1</button> <button onclick="setInput('animStateTest', 'animationState', 2)">Anim State 2</button></div><hmh-rive id="animStateTest" src="../assets/timer.riv" desc="A stylised green clock hovers in the air." autoplay="true" volume="1"></hmh-rive></div><div class="riveGroup"><div class="button-row"><button onclick="setInput('studentPickerTest', 'pickStudent', 1)">Pick Student</button></div><hmh-rive id="studentPickerTest" src="../assets/student_picker.riv" desc="Cartoon animal icons." surfaceallinputs="true" autoplay="true"></hmh-rive></div><div class="riveGroup"><hmh-rive id="reducedMotionTest" src="../assets/reduced_motion_test.riv" desc="A schoolchild sitting at a computer desk - reading, thinking, and typing." surfaceallinputs="true" autoplay="true"></hmh-rive></div><script>/* NOTE: this can handle all types of Inputs, including Trigger-type ones!
+    (a nonzero value will be treated as a fire() request) */
+  function setInput(hmhRiveElementID, inputName, value){
+    const hmhRiveInstance = document.getElementById(hmhRiveElementID);
+    const input = hmhRiveInstance.inputs[inputName].value = value;
+  }</script><script defer="defer" src="bundle.js?dafd798bd8eb19031399"></script></body></html>
