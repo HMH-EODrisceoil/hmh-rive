@@ -1,0 +1,15 @@
+var _jsxFileName = "/Users/odrisceoile/Documents/GitHub/connect_system/src/main.tsx";
+import __vite__cjsImport0_react from "/node_modules/.vite/deps/react.js?v=89681d35"; const React = __vite__cjsImport0_react.__esModule ? __vite__cjsImport0_react.default : __vite__cjsImport0_react;
+import __vite__cjsImport1_reactDom_client from "/node_modules/.vite/deps/react-dom_client.js?v=89681d35"; const ReactDOM = __vite__cjsImport1_reactDom_client.__esModule ? __vite__cjsImport1_reactDom_client.default : __vite__cjsImport1_reactDom_client;
+import App from "/src/App.tsx";
+ReactDOM.createRoot(document.getElementById("root")).render(/* @__PURE__ */ React.createElement(React.StrictMode, { __self: this, __source: {
+  fileName: _jsxFileName,
+  lineNumber: 6,
+  columnNumber: 3
+} }, /* @__PURE__ */ React.createElement(App, { __self: this, __source: {
+  fileName: _jsxFileName,
+  lineNumber: 7,
+  columnNumber: 5
+} })));
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IjtBQUFBLE9BQU9BLFdBQVc7QUFDbEIsT0FBT0MsY0FBYztBQUNyQixPQUFPQyxTQUFTO0FBRWhCRCxTQUFTRSxXQUFXQyxTQUFTQyxlQUFlLE1BQU0sQ0FBZ0IsRUFBRUMsT0FDbEUsb0NBQUMsTUFBTSxZQUFOLEVBQWdCO0FBQUEsRUFBQUMsVUFBQUM7QUFBQUEsRUFBQUMsWUFBQTtBQUFBLEVBQUFDLGNBQUE7QUFBQSxLQUNmLG9DQUFDLE9BQUc7QUFBQSxFQUFBSCxVQUFBQztBQUFBQSxFQUFBQyxZQUFBO0FBQUEsRUFBQUMsY0FBQTtBQUFBLElBQ04sQ0FDRiIsIm5hbWVzIjpbIlJlYWN0IiwiUmVhY3RET00iLCJBcHAiLCJjcmVhdGVSb290IiwiZG9jdW1lbnQiLCJnZXRFbGVtZW50QnlJZCIsInJlbmRlciIsImZpbGVOYW1lIiwiX2pzeEZpbGVOYW1lIiwibGluZU51bWJlciIsImNvbHVtbk51bWJlciJdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlcyI6WyJtYWluLnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbS9jbGllbnQnO1xuaW1wb3J0IEFwcCBmcm9tICcuL0FwcCc7XG5cblJlYWN0RE9NLmNyZWF0ZVJvb3QoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKSBhcyBIVE1MRWxlbWVudCkucmVuZGVyKFxuICA8UmVhY3QuU3RyaWN0TW9kZT5cbiAgICA8QXBwIC8+XG4gIDwvUmVhY3QuU3RyaWN0TW9kZT4sXG4pO1xuIl0sImZpbGUiOiIvVXNlcnMvb2RyaXNjZW9pbGUvRG9jdW1lbnRzL0dpdEh1Yi9jb25uZWN0X3N5c3RlbS9zcmMvbWFpbi50c3gifQ==
