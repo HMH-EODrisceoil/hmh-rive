@@ -1,8 +1,9 @@
 {
     "hmhAE": {
         "hmhTemplateManager": {
-                "latestVersion": 1.0,
-		        "updateMessage": "Please contact Eoin!"
+                "latestVersion": 0.6,
+		"updateMessage": "Please contact Eoin!",
+                "spreadsheet": "https://docs.google.com/spreadsheets/d/13A7m2csfmtbrcVG2BiGZ55gSIjvVSJcRPBDurPSgYHo/edit?usp=sharing"
         }
     }
 }
